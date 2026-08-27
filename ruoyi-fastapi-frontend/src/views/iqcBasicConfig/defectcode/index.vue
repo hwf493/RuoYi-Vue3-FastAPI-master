@@ -41,6 +41,7 @@
   min-height: calc(100vh - 110px);
 }
 .card-header {
+
   display: flex;
   align-items: center;
   font-size: 16px;
